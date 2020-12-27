@@ -6,7 +6,7 @@
 
 + Birthdate 1991,6,2
 + Married
-+ Now i am a Bachelors students in computer Engineering
++ Now i am a Bachelors students in Information Technology
 + Iran,Tehran
 
 ### Skill Highlights
