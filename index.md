@@ -1,5 +1,5 @@
 ### nilofar abdi tir abadi
-<img src="pic.jpeg">
+<img src="pic.jpg">
 
 ### intro
 
